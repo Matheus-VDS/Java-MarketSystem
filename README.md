@@ -1,3 +1,2 @@
-# trab_LPOO
-Trabalho prático da disciplina de Linguage de Programação Orientada à Objetos na linguagem JAVA.
-Projeto feito na IDE Eclipse.
+# market-system
+Java application of a market system with elemental functionalites like insert, alter, delete and print the products with their respective names, prices and avaliable stock amount.
